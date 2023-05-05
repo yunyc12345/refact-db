@@ -1,0 +1,37 @@
+{
+    "sk_path": "/home/m/key/debug/bundler/mainnet-remote-server-key-list",
+    "zkbridge_abi_path": "/mailbox-abi/zkbridge.abi",
+    "mailer_abi_path": "/mailbox-abi/mailer.abi",
+    "chains": [
+        {
+            "name": "bsc mainnet",
+            "endpoint": "https://bsc-mainnet.nodereal.io/v1/29c57e58ee374baca2e9ad15a5c8273e",
+            "zkbridge_bridge": "",
+            "mailer": "0x1e40CD8569F3c91F5101d54AE01a75574a9ccE60",
+            "mailbox": "0x4B3Ec57EC2A489A98B0A099e8f06850d997999f0",
+            "mailer_greenfield": "0x044332f4b34fd5639482de41cd1d767f7304fa00",
+            "mailbox_greenfield": "0x677a0781F6FFf9D8a6d5aAEA4BeC845C0322846C",
+            "app_chain_id": 3,
+            "chain_id": 56,
+            "start_height": 27940170,
+            "wait_num": 15,
+            "wait_second": 3,
+            "testnet": false
+        },
+        {
+            "name": "ftm mainnet",
+            "endpoint": "https://rpcapi.fantom.network",
+            "zkbridge_bridge": "0x3a0F7d4a4CAcA465335e3aDf49C66892fee37345",
+            "mailer": "",
+            "mailbox": "0x677a0781F6FFf9D8a6d5aAEA4BeC845C0322846C",
+            "mailer_greenfield": "",
+            "mailbox_greenfield": "0xfA554733c758C4e8fFe2D1953F73f49124ec5E1E",
+            "app_chain_id": 6,
+            "chain_id": 250,
+            "start_height": 61520461,
+            "wait_num": 15,
+            "wait_second": 3,
+            "testnet": false
+        }
+    ]
+}

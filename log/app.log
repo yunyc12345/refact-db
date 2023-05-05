@@ -1,0 +1,1691 @@
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: Combo Testnet, height: 1301075"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: polygon mainnet, height: 42327913"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: avax mainnet, height: 29618895"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: arbi mainnet, height: 87488296"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: moonbeam mainnet, height: 3495443"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61517908"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193197"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939336"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: op mainnet, height: 96475345"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495447"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: polygon mainnet, height: 42327934"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96475422"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29618915"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: arbi mainnet, height: 87488471"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61517961"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: Combo Testnet, height: 1301117"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939351"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495447"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96475422"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29618918"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61517968"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27939352"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: eth mainnet, height: 17193201"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939358"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939358"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96475425"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193203"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: polygon mainnet, height: 42327940"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29618926"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61517987"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: arbi mainnet, height: 87488564"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495449"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: Combo Testnet, height: 1301143"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495458"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939398"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27939398"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96475735"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193213"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: Combo Testnet, height: 1301260"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: polygon mainnet, height: 42327986"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518125"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: arbi mainnet, height: 87489041"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29618986"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: Combo Testnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: avax mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: polygon mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: eth mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: op mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: arbi mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: metis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: metis mainnet, height: 5179776"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: moonbeam mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: gnosis mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: gnosis mainnet, height: 3143761"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: moonbeam mainnet, height: 3495473"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: polygon mainnet, height: 42328068"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: Combo Testnet, height: 1301447"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518322"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: arbi mainnet, height: 87489784"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: eth mainnet, height: 17193228"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: op mainnet, height: 96476146"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: avax mainnet, height: 29619078"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518551"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518771"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518805"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61518923"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620528"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620529"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620530"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620531"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620532"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620533"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620534"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map: "}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620535"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620536"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61519150"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620528"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620529"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620530"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620531"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620532"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620533"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620534"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: "}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620535"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620536"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61519343"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620528"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620529"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620530"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620531"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620532"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620533"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620534"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620535"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620536"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620537"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620538"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620539"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620540"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620541"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620542"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620543"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620544"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620545"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620546"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620547"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620548"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620549"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620550"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620551"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620552"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620553"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620554"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620555"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620556"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620557"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620558"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620559"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620560"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620561"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620562"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620563"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620564"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620565"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620566"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620567"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620568"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620569"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620570"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620571"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620572"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620573"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620574"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620575"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620576"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620577"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620578"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620579"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620580"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620581"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620582"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620583"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620584"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620585"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620586"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620587"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620588"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620589"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620590"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620591"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620592"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620593"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620594"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620595"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620596"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620597"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620598"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620599"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620600"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620601"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620602"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620603"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620604"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620605"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620606"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620607"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620608"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620609"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620610"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620611"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620612"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620613"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[0xc00052d1a0:0xc00052d1c0]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620614"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620615"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620616"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620617"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620618"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620619"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520071"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620528"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620529"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620530"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620531"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620532"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620533"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620534"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list: []"}
+{"func":"main.main:104","level":"info","msg":"map len: 1"}
+{"func":"main.main:105","level":"info","msg":"map: map[{50 114 0x1e40cd8569f3c91f5101d54ae01a75574a9cce60}:{0xc00071ade0 \u003cnil\u003e false 1683276901}]"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620535"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620536"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620537"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: bsc mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620527"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520106"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620528"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620529"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620530"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620531"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620532"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620533"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620534"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620535"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:101","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list: []"}
+{"func":"main.main:105","level":"info","msg":"map len: 1"}
+{"func":"main.main:106","level":"info","msg":"map: "}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620536"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620537"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620538"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620539"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27620540"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520444"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940183"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940183"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940184"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940185"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940186"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940187"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940188"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940189"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:105","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940190"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940191"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940192"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940193"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940194"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940195"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940196"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940197"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:105","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940198"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940199"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940200"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940201"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940202"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940203"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940204"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940205"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940206"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:105","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940207"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940208"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940209"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940210"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940211"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940212"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940175"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940176"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940177"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:105","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940178"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940179"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940180"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940168"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940168"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940175"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.main:102","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:105","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940176"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940177"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940178"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940168"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940168"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940175"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520465"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:34","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:48","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940169"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailerFetcher).Run:58","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:80","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x044332f4b34fd5639482de41cd1d767f7304fa00\"}"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x00000000000000000000000005d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:137","level":"warning","msg":"chain: ftm mainnet, map key get none: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940175"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520465"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940176"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520466"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940177"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:115","level":"info","msg":"mailer mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940171"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520462"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940172"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520463"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:108","level":"info","msg":"zkbridge mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940173"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520464"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940174"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940175"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520465"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940176"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520466"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940177"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520467"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940178"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:59","level":"info","msg":"chain: bsc mainnet, height: 27940179"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:65","level":"info","msg":"chain: ftm mainnet, height: 61520468"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:115","level":"info","msg":"mailer mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:108","level":"info","msg":"zkbridge mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 1"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:115","level":"info","msg":"mailer mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:108","level":"info","msg":"zkbridge mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailerFetcher).Run:81","level":"info","msg":"mailer log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:115","level":"info","msg":"mailer mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 1"}
+{"func":"main.(*MailBoxFetcher).Run:108","level":"info","msg":"zkbridge mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 1"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailBoxFetcher).Run:88","level":"info","msg":"zkbridge log size: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 1"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.(*MailBoxFetcher).Run:40","level":"info","msg":"chain name: ftm mainnet, mailbox fetcher run"}
+{"func":"main.(*MailBoxFetcher).Run:54","level":"info","msg":"monitor start: chain: ftm mainnet, height: 61520461"}
+{"func":"main.(*MailerFetcher).Run:35","level":"info","msg":"chain name: bsc mainnet, mailer fetcher run"}
+{"func":"main.(*MailerFetcher).Run:49","level":"info","msg":"monitor start: chain: bsc mainnet, height: 27940170"}
+{"func":"main.(*MailerFetcher).Run:99","level":"info","msg":"mailer map key: {\"Sequence\":32233,\"ReceiverAppId\":6,\"MailBoxAddress\":\"0x05d0c7deb769eeda7675c2fbbf9a79140196ff87\"}"}
+{"func":"main.(*MailerFetcher).Run:115","level":"info","msg":"mailer mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 0"}
+{"func":"main.main:110","level":"info","msg":"map len: 1"}
+{"func":"main.(*MailBoxFetcher).Run:108","level":"info","msg":"zkbridge mapkey: 0x363965656461373637356332666262663961373931343031393666663837227d"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 1"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
+{"func":"main.main:107","level":"info","msg":"sql list len: 1"}
+{"func":"main.main:110","level":"info","msg":"map len: 0"}
